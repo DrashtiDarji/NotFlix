@@ -130,7 +130,7 @@
 }
 .banner_container>h2{
     font-family: neue;
-    letter-spacing: 1;
+    letter-spacing: 0.5;
     font-size: 25px ;
 }
 .banner_container>h2,h3{
@@ -138,7 +138,7 @@
 }
 .banner_container>h3{
     margin-top: 20px;
-    justify-self: center;
+    justify-self: center  ;
 }
 .email_section_container{
     display: flex;
@@ -680,6 +680,6 @@ footer{
         width: 40%;
     }
     .header_logo{
-        width: 20%;
+        width: 30%;
     }
 }
